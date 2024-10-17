@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I guess i'm a genious like a Mark Zuckerberg
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Giovani-Simple-Dev.Visual-Touch-Repo)
+![](https://komarev.com/ghpvc/?username=Giovani-Simple-Dev&label=PROFILE+VIEWS)
 
 
 <!---
