@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I guess i'm a genious like a Mark Zuckerberg
 
-![](https://komarev.com/ghpvc/?username=Giovani-Simple-Dev&label=PROFILE+VIEWS&color=262D34&for-the-badge)
+![](https://komarev.com/ghpvc/?username=Giovani-Simple-Dev&label=PROFILE+VIEWS&color=262D34&style=for-the-badge)
 
 
 <!---
