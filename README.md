@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I guess i'm a genious like a Mark Zuckerberg
 
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=Giovani-Simple-Dev)
+
 <!---
 Giovani-Simple-Dev/Giovani-Simple-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
