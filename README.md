@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani-Simple-Devbg_color=000000" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani-Simple-Dev&bg_color=000000" alt="GitHub Activity Graph" />
 </div>
 
 <p align="center">
