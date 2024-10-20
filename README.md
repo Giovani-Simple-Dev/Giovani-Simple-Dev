@@ -1,46 +1,22 @@
-👋 **Olá! Eu sou o Giovani - Desenvolvedor Full Stack**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani-Simple-Devbg_color=000000" alt="GitHub Activity Graph" />
+</div>
 
-👀 **Sobre mim:**  
-Apaixonado por tecnologia e focado em criar projetos inovadores. Estou sempre em busca de desafios que me ajudem a evoluir como desenvolvedor e a aprender novas tecnologias.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RGiovani-Simple-Dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-🌱 **Atualmente aprendendo:**  
-- **HTML & CSS:** Criando interfaces web elegantes e responsivas.
-- **JavaScript:** Dando vida aos meus projetos com interatividade e lógica no front-end.
-- **PHP:** Trabalhando no back-end para desenvolver soluções dinâmicas e funcionais.
-- **Python:** Explorando automações e construção de APIs eficientes.
+### Main skills:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-💼 **Colaboração:**  
-Busco oportunidades para colaborar com empresas que valorizem a inovação e o impacto da tecnologia no dia a dia.
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-🛠 **Ferramentas e Tecnologias:**  
-- **VS Code:** Meu editor favorito para codificação eficiente.
-- **Git & GitHub:** Controlando versões de código e compartilhando meus projetos.
-- **MySQL:** Desenvolvendo bancos de dados robustos para aplicações web.
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-💡 **Curiosidade:**  
-Acredito que todo problema tem uma solução criativa no código. A tecnologia é a chave para transformar ideias em realidade!
-
-😄 **Pronomes:** He/Him
-
-⚡ **Fato divertido:**  
-Sou um eterno aprendiz e gosto de imaginar como pequenas linhas de código podem mudar o mundo. Quem sabe, um dia eu não seja o próximo gênio da tecnologia!
-
----
-
-## Estatísticas
-
-![Profile Views](https://komarev.com/ghpvc/?username=Giovani-Simple-Dev&label=PROFILE+VIEWS&color=262D34&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/Giovani-Simple-Dev?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/Giovani-Simple-Dev?style=for-the-badge)
-
----
-
-## Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Simple-Dev&layout=compact&theme=dark&langs_count=6)
-
----
-
-## Status do GitHub
-
-![Giovani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovani-Simple-Dev&show_icons=true&theme=dark&count_private=true&hide=stars)
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
