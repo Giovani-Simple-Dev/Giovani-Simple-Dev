@@ -6,6 +6,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Giovani-Simple-Dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+
+
 ### Main skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
@@ -20,6 +22,15 @@
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![GoLang](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg)&nbsp;
-          
-          
+
+<p align="bottom">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />        
+</p>
+
+<style>
+
+p img {
+  width: 80px;
+  height: 80px;
+}
+</style>
