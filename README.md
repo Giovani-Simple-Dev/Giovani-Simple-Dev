@@ -1,8 +1,7 @@
 # 📚 C-Knowledge: Aprendizado em C e C++
 
 <div align="center">
-
-![C++ Logo](<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png width=306">) ![C Logo]( <img src="[https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg ](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg style='width=306';">)
+![C++ Logo](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png) ![C Logo](https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg)
 
 ---
 
