@@ -3,11 +3,11 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" alt="C Logo" width="196" />
-  <img src="https://pink-kudu-590523.hostingersite.com/icons8-html.svg" alt="HTML Logo"/>
-  <img src="https://pink-kudu-590523.hostingersite.com/icons8-css.svg" alt="CSS Logo"/>
-  <img src="https://pink-kudu-590523.hostingersite.com/icons8-js.svg" alt="JS Logo"/>
-  <img src="https://pink-kudu-590523.hostingersite.com/icons8-python.svg" alt="Python Logo"/>
-  <img src="https://pink-kudu-590523.hostingersite.com/icons8-c++.svg" alt="CPP Logo"/>
+  <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-html.svg" alt="HTML Logo"/>
+  <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-css.svg" alt="CSS Logo"/>
+  <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-js.svg" alt="JS Logo"/>
+  <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-python.svg" alt="Python Logo"/>
+  <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-c++.svg" alt="CPP Logo"/>
 </div>
 
 # Front End Projects
