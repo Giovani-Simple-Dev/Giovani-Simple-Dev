@@ -28,7 +28,7 @@
 
 # Recent Projects
 
-[1) A Simple Calculator in C](https://github.com/Giovani-Simple-Dev/C-Knowledge/simple_calculator.c)
+[1) A Simple Calculator in C]([https://github.com/Giovani-Simple-Dev/C-Knowledge/simple_calculator.c](https://github.com/Giovani-Simple-Dev/C-Knowledge/blob/main/simple_calculator.c))
 
 ----
 
