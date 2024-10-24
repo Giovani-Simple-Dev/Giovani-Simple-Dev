@@ -37,6 +37,6 @@
 ---
 
 <div align="center" style="text-decoration:none;">
-  <a href="https://www.instagram.com/giovani.henriq">Instagram</a>
-  <a href="https://www.linkedin.com/in/giovani-henrique-braz-nunes-232007264/">LinkedIn</a>
+  <a href="https://www.instagram.com/giovani.henriq" style="text-decoration:none;">Instagram</a>
+  <a href="https://www.linkedin.com/in/giovani-henrique-braz-nunes-232007264/" style="text-decoration:none;">LinkedIn</a>
 </div>
