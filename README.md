@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  ![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev)
+  ![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/)
 
 </div>
 
