@@ -18,6 +18,9 @@
 <div align="center">
   
   ![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/painel_consultas)
+  ![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/redePHP)
+  ![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/C-Knowledge)
+  ![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/Twitter-Clone)
 
 </div>
 
