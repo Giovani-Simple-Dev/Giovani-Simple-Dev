@@ -11,9 +11,10 @@
 </div>
 
 # Front End Projects
-
-<a href="https://pink-kduu-590523.hostingersite.com/Music%20PLayer">Music Player</a>
-
+<div align="center>
+<a href="https://pink-kduu-590523.hostingersite.com/Music%20PLaye](https://pink-kudu-590523.hostingersite.com/Music%20Player/">Music Player</a>
+<a href="https://pink-kudu-590523.hostingersite.com/IA">IA Feita com a API do Gemini</a>
+</div>
 <div align="center" style="margin: 10px">
   <a href="https://github.com/Giovani-Simple-Dev/C-Knowledge" align="center">GitHub New Repository</a>
 </div>
