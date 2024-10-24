@@ -36,6 +36,6 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/giovani.henriq">Instagram</a>
 </div>
