@@ -19,7 +19,7 @@
 <div align="center">
 <a href="https://pink-kudu-590523.hostingersite.com/Music%20Player/">Music Player</a>
 
-  <img src="https://pink-kudu-590523.hostingersite.com/github/image.png" width="800" height="600" alt="Screenshot Project"/>
+  <img src="https://pink-kudu-590523.hostingersite.com/github/image.png" width="600" height="400" alt="Screenshot Project"/>
 <a href="https://pink-kudu-590523.hostingersite.com/IA">IA Feita com a API do Gemini</a>
 </div>
 ---
