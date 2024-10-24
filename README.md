@@ -34,8 +34,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Giovani-Simple-Dev&theme=light"/>
 </div>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Simple-Dev&layout=compact&theme=radical"/>
-</div>
