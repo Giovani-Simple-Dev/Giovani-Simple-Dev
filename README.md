@@ -10,6 +10,10 @@
   <img src="https://pink-kudu-590523.hostingersite.com/icons8-c++.svg" alt="CPP Logo"/>
 </div>
 
+# Front End Projects
+
+![Music Player](https://pink-kduu-590523.hostingersite.com/Music%20PLayer)
+
 <div align="center" style="margin: 10px">
   <a href="https://github.com/Giovani-Simple-Dev/C-Knowledge" align="center">GitHub New Repository</a>
 </div>
