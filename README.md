@@ -34,4 +34,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Giovani-Simple-Dev&theme=light"/>
 </div>
 
+---
 
+<div align="center">
+  <a href="https://www.instagram.com/giovani.henriq">Instagram</a>
+</div>
