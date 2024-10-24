@@ -16,13 +16,13 @@
 ----
 
 # Front End Projects
+<div align="center">
 <a href="https://pink-kudu-590523.hostingersite.com/Music%20Player/">Music Player</a>
 
-<div align="center">
-  <img src="https://pink-kudu-590523.hostingersite.com/github/image.png" width="600" height="400" alt="Screenshot Project"/>
-</div>
+
 <a href="https://pink-kudu-590523.hostingersite.com/IA">IA Feita com a API do Gemini</a>
----
+</div>
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani-Simple-Dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
