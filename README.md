@@ -8,7 +8,6 @@
   <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-css.svg" alt="CSS Logo"/>
   <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-js.svg" alt="JS Logo"/>
   <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-python.svg" alt="Python Logo"/>
-  <img src="https://pink-kudu-590523.hostingersite.com/github/icons8-c++.svg" alt="CPP Logo"/>
 </div>
 <div align="center" style="margin: 10px">
   <a href="https://github.com/Giovani-Simple-Dev/C-Knowledge" align="center">GitHub New Repository</a>
