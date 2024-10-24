@@ -16,12 +16,12 @@
 ----
 
 # Front End Projects
-<div align="center">
 <a href="https://pink-kudu-590523.hostingersite.com/Music%20Player/">Music Player</a>
 
+<div align="center">
   <img src="https://pink-kudu-590523.hostingersite.com/github/image.png" width="600" height="400" alt="Screenshot Project"/>
-<a href="https://pink-kudu-590523.hostingersite.com/IA">IA Feita com a API do Gemini</a>
 </div>
+<a href="https://pink-kudu-590523.hostingersite.com/IA">IA Feita com a API do Gemini</a>
 ---
 
 <div align="center">
