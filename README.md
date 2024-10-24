@@ -28,8 +28,8 @@ Bem-vindo ao repositório **C-Knowledge**! Este projeto contém todos os arquivo
 
 ## 📊 Estatísticas do Repositório
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovani-Simple-Dev&show_icons=true&theme=radical)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Simple-Dev&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovani-Simple-Dev/C-Knowledge&show_icons=true&theme=radical)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Simple-Dev/C-Knowledge&layout=compact&theme=radical)
 
 ---
 
