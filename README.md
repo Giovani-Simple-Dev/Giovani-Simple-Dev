@@ -20,7 +20,7 @@
 <a href="https://pink-kudu-590523.hostingersite.com/Music%20Player/">Music Player</a>
 
 
-<a href="https://pink-kudu-590523.hostingersite.com/IA">IA Feita com a API do Gemini</a>
+<a href="https://pink-kudu-590523.hostingersite.com/IA">AI Built with the Gemini API</a>
 </div>
 
 
