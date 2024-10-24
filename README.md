@@ -31,5 +31,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Giovani-Simple-Dev&theme=dark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Giovani-Simple-Dev&theme=light"/>
 </div>
