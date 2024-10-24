@@ -36,7 +36,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="text-decoration:none;">
   <a href="https://www.instagram.com/giovani.henriq">Instagram</a>
   <a href="https://www.linkedin.com/in/giovani-henrique-braz-nunes-232007264/">LinkedIn</a>
 </div>
