@@ -110,3 +110,13 @@ int main() {
     cout << "Olá, Mundo!" << endl;
     return 0;
 }
+```
+
+```C
+#include <stdio.h>
+
+int main(){
+  printf("Hello, World!");
+  return 0;
+}
+```
