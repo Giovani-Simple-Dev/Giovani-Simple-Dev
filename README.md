@@ -16,7 +16,10 @@
 
 ----
 
-# Front End Projects
+<div align="center">
+  <h1>Front-End Projects</h1>
+</div>
+
 <div align="center">
 <a href="https://pink-kudu-590523.hostingersite.com/Music%20Player/">Music Player</a>
 
