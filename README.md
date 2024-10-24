@@ -16,6 +16,15 @@
 ----
 
 <div align="center">
+  
+  ![Linguagens](https://img.shields.io/github/languages/top/Giovani-Simple-Dev/)
+
+</div>
+
+
+----
+
+<div align="center">
   <h1>Front-End Projects</h1>
 </div>
 
