@@ -15,6 +15,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani-Simple-Dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
 </div>
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Giovani-Simple-Dev&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Simple-Dev&layout=compact&theme=radical"/>
