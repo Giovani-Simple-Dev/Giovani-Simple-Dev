@@ -8,6 +8,7 @@
   <img src="https://pink-kudu-590523.hostingersite.com/icons8-js.svg" alt="JS Logo"/>
   <img src="https://pink-kudu-590523.hostingersite.com/icons8-python.svg" alt="Python Logo"/>
   <img src="https://pink-kudu-590523.hostingersite.com/icons8-c++.svg" alt="CPP Logo"/>
+  <img src="https://pink-kudu-590523.hostingersite.com/icons8-php-logo.svg" alt="PHP Logo"/>
 </div>
 
 <div align="center" style="margin: 10px">
