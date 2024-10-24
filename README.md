@@ -12,5 +12,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani-Simple-Dev&bg_color=000000&color=white&line=purple&point=red&area=true&area_color=purple" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giovani-Simple-Dev&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=00ff00" alt="GitHub Activity Graph" />
 </div>
