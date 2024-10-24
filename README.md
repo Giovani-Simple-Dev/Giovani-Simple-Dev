@@ -56,6 +56,6 @@
 <h1>Contact Me</h1>
 </div>
 <div align="center" style="text-decoration:none;">
-[![Contact Me](https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-henrique-braz-nunes-232007264/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovani.henriq)
+[![Contact Me]("https://img.shields.io/badge/Contact_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovani-henrique-braz-nunes-232007264/")  
+[![Instagram]("https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovani.henriq")
 </div>
