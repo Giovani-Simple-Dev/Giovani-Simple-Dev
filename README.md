@@ -24,6 +24,11 @@
 
 </div>
 
+---
+
+# Recent Projects
+
+![1) A Simple Calculator in C](https://github.com/Giovani-Simple-Dev/C-Knowledge/simple_calculator.c)
 
 ----
 
