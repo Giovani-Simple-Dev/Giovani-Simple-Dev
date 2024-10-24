@@ -12,7 +12,7 @@
 
 # Front End Projects
 
-![Music Player](https://pink-kduu-590523.hostingersite.com/Music%20PLayer)
+<a href="https://pink-kduu-590523.hostingersite.com/Music%20PLayer">Music Player</a>
 
 <div align="center" style="margin: 10px">
   <a href="https://github.com/Giovani-Simple-Dev/C-Knowledge" align="center">GitHub New Repository</a>
