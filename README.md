@@ -16,5 +16,6 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giovani-Simple-Dev&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-Simple-Dev&layout=compact&theme=radical"/>
 </div>
