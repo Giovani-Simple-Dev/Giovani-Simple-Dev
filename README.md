@@ -34,6 +34,8 @@
 
 [2) Hello World in C](https://github.com/Giovani-Simple-Dev/C-Knowledge/blob/main/hello.c)
 
+[3) While Loop in C](https://github.com/Giovani-Simple-Dev/C-Knowledge/blob/main/while_loop.c)
+
 ----
 
 <div align="center">
