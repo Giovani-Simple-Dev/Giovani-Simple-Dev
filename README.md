@@ -31,6 +31,7 @@
 
 <div align="center" style="width: 150px;">
   <h1> Languages </h1>
+  
   ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/250px-Flag_of_Russia.png)
   ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/250px-Flag_of_the_United_States.png)
   ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.png)
