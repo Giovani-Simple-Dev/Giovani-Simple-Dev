@@ -27,6 +27,14 @@
 
 ---
 
+---
+
+<div align="center">
+  
+  ![IDIOMAS](https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_Russia.svg)
+  ![IDIOMAS](https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_the_United_States.svg)
+</div>
+
 # Recent Projects
 
 
