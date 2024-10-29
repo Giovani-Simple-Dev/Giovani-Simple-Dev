@@ -29,7 +29,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="width: 250px";>
   
   ![IDIOMAS](https://imagepng.org/wp-content/uploads/2017/08/bandeira-russia.png)
   ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png)
