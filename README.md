@@ -32,7 +32,7 @@
 <div align="center">
   
   ![IDIOMAS](https://imagepng.org/wp-content/uploads/2017/08/bandeira-russia.png)
-  ![IDIOMAS](https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_the_United_States.svg)
+  ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png)
 </div>
 
 # Recent Projects
