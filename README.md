@@ -45,6 +45,7 @@
   <h1> Languages I'm trying to learn </h1>
   
   ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/200px-Flag_of_the_People%27s_Republic_of_China.png)
+  ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/200px-Flag_of_Greece.png)
 </div>
 
 ----
