@@ -39,6 +39,16 @@
   ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/200px-Flag_of_Italy.png)
 </div>
 
+---
+
+<div align="center">
+  <h1> Languages I'm trying to learn </h1>
+  
+  ![IDIOMAS](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/200px-Flag_of_the_People%27s_Republic_of_China.png)
+</div>
+
+----
+
 # Recent Projects
 
 
